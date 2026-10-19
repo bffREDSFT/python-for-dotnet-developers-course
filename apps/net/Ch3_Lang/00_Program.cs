@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Switch.Run();
+            //Switch.Run();
             //Using.Run();
             //Errors.Run();
             //Typing.Run();
@@ -15,7 +15,7 @@
             //FunctionArgs.Run();
             //FunctionBasics.Run();
             //Iteration.Run();
-            //ShapeOfCode.Run();
+            ShapeOfCode.Run();
         }
     }
 }
